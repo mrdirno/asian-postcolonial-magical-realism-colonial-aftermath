@@ -1,0 +1,160 @@
+{
+  "book_id": "whispering-view-ghosts-unfinished-business",
+  "title": "Whispering View: A Museum of Unfinished Business",
+  "tagline": "In a crumbling hill station bungalow, a young woman must protect her inherited ghosts from corporate erasure, discovering that the colonial past is not dead—it's just stuck.",
+  "target_words": 70000,
+  "actual_words": 69789,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Haunting as Unresolved History",
+    "Custodianship vs. Exploitation",
+    "The Tangibility of Memory",
+    "Living with the Ghosts of Empire"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Tenant in the Drain",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "The Corporate Dialect",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Botanist's Wife's Silver",
+      "words": 2700
+    },
+    {
+      "ch": 4,
+      "title": "The Fold in the Jungle",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "The Cook's Heartache",
+      "words": 2750
+    },
+    {
+      "ch": 6,
+      "title": "Aaji's Defiance",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "The Consortium's Blueprint",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Manifestations of Grief",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Scent of Burnt Ghee",
+      "words": 2800
+    },
+    {
+      "ch": 10,
+      "title": "Echoes in the Foundation",
+      "words": 3200
+    },
+    {
+      "ch": 11,
+      "title": "The Planter's Last Memory",
+      "words": 2650
+    },
+    {
+      "ch": 12,
+      "title": "A Custodian's Burden",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Crossing the Fold",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "The Hill Station's Pulse",
+      "words": 2750
+    },
+    {
+      "ch": 15,
+      "title": "Ghosts as Witnesses",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The Vulture's Offer",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "The Language of Erasure",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "A Story's Last Page",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Unmoored Dead",
+      "words": 2800
+    },
+    {
+      "ch": 20,
+      "title": "The Thin Spot",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "Defining Heritage",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Weight of the Seen",
+      "words": 2700
+    },
+    {
+      "ch": 23,
+      "title": "Custodians of Trauma",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "Whispering View Endures",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern tech developer visits Whispering View and their app begins to display impossible data—conversations from 1927, maps of rooms that don't exist, or the biometric signature of the weeping botanist's wife.",
+      "Create a 'Ghost Log' for the bungalow from Amrita's perspective, detailing the daily routines, triggers, and subtle changes in each spectral tenant, treating them as clients with unresolved cases.",
+      "Imagine a chapter from the perspective of Mr. Varma, the Consortium man, who begins to experience faint, inexplicable sensations—the smell of tea and damp linen, a chill, a tune he can't place—after his visit, and how he rationalizes it.",
+      "Write a 'found document'—a letter, a diary entry, or a colonial officer's report—that reveals the true, hidden tragedy of one of the ghosts, which Amrita discovers tucked in the floorboards or behind a brick."
+    ],
+    "technical": [
+      "Build a 'Haunt Map' interactive visualization that layers the ghostly activity, architectural decay, and historical timelines of Whispering View, allowing users to explore the spatial and temporal density of its 'unfinished business'.",
+      "Design a speculative 'Spectral Interface' system that Amrita might use to catalog and communicate with her ghostly tenants. What would its inputs and outputs be? How would it represent non-linear time and emotional residue as data?"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Salman Rushdie",
+      "Katherine Boo",
+      "Jorge Luis Borges",
+      "Arundhati Roy"
+    ]
+  },
+  "cover_prompt": "A young South Asian woman stands protectively in the grand, decaying foyer of a colonial-era hill station bungalow, her hand outstretched as translucent, sorrowful figures of British colonials and local servants shimmer into view around her, their forms woven from peeling wallpaper, dust motes, and fading ledger entries. The scene is set within the \"Whispering View\" museum, a cavernous room with broken chandeliers, overgrown ferns pushing through floorboards, and archival boxes leaking ghostly light, all under the misty gaze of monsoon-clouded mountains through cracked bay windows. In the atmospheric style of Ruan Jia and James Jean, blending magical realism with haunting, ethereal figurative painting and textured, historical decay. Book cover framing, centered composition with a low, dramatic angle looking up at the woman as the spectral history swirls around her, emphasizing her custodianship against the crumbling architecture. Cinematic, volumetric lighting with shafts of cool, ghostly blue light piercing the warm, amber gloom of aged wood and damp plaster, creating a palette of sepia, moss green, tarnished silver, and spectral cyan. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
